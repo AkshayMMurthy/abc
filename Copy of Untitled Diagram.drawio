@@ -49,29 +49,20 @@
         <mxCell id="5IH84X5XSTADNQ1NUQGd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5IH84X5XSTADNQ1NUQGd-2" target="5IH84X5XSTADNQ1NUQGd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5IH84X5XSTADNQ1NUQGd-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Quantum State preparation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Apply amplitude encoding and create the quantum circuit." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Quantum State preparation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Apply quantum encodings and create the quantum circuit." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="370" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5IH84X5XSTADNQ1NUQGd-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Quantum Distance&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Compute fidelity&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Kernel Function/Quantum Distance computaiton&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Compute kernel function/Fidelity&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="370" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5IH84X5XSTADNQ1NUQGd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5IH84X5XSTADNQ1NUQGd-6" target="5IH84X5XSTADNQ1NUQGd-9" edge="1">
+        <mxCell id="qzcdA-76he_V_iI78gst-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5IH84X5XSTADNQ1NUQGd-7" target="5IH84X5XSTADNQ1NUQGd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5IH84X5XSTADNQ1NUQGd-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Find 5 nearest neighbors based on quantum distance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="635" width="123" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="5IH84X5XSTADNQ1NUQGd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5IH84X5XSTADNQ1NUQGd-7" target="5IH84X5XSTADNQ1NUQGd-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5IH84X5XSTADNQ1NUQGd-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Set value of k&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Choose k=5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="640" width="130" height="100" as="geometry" />
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Computation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;Set value of k&amp;nbsp; for QKNN&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Compute Kernel Function for QSVM&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="310" y="640" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Classification&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Classify data packet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="601" y="630" width="119" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="2wdc7DsvPRnudnOu6lJr-1" value="Find Neighbors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="410" y="640" width="130" height="30" as="geometry" />
+          <mxGeometry x="510" y="640" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
