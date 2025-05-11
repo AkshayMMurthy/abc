@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.3">
+  <diagram name="Page-1" id="IowLkyHsUFm7hj_iNHQr">
+    <mxGraphModel dx="1426" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tHObwuz-neF_lD4l34wk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#99FFFF,#99FFFF);" parent="1" vertex="1">
+          <mxGeometry x="170" y="50" width="610" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tHObwuz-neF_lD4l34wk-2" target="tHObwuz-neF_lD4l34wk-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCFF,#FFCCFF);" parent="1" vertex="1">
+          <mxGeometry x="170" y="790" width="610" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Classification Model&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCFFCC,#CCFFCC);" parent="1" vertex="1">
+          <mxGeometry x="175" y="1120" width="600" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data Preprocessing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="60" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tHObwuz-neF_lD4l34wk-5" target="tHObwuz-neF_lD4l34wk-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Data Loading&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;Load the network traffic CSV&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tHObwuz-neF_lD4l34wk-7" target="tHObwuz-neF_lD4l34wk-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Handle the data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Remove missing values and inf values&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tHObwuz-neF_lD4l34wk-8" target="tHObwuz-neF_lD4l34wk-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data Balancing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Undersampling dataset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tHObwuz-neF_lD4l34wk-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Feature Scaling&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apply feature scaling to the data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Quantum Processing&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="840" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5IH84X5XSTADNQ1NUQGd-2" target="5IH84X5XSTADNQ1NUQGd-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Quantum State preparation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Apply amplitude encoding and map data into&lt;div&gt;the quantum space.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="890" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Quantum Distance&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Compute fidelity&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;= |⟨ψ₁|ψ₂⟩|²&lt;/span&gt;&lt;/div&gt;&lt;div&gt;distance = 1 - fidelity&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="890" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5IH84X5XSTADNQ1NUQGd-6" target="5IH84X5XSTADNQ1NUQGd-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Find 5 nearest neighbors based on quantum distance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1195" width="123" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5IH84X5XSTADNQ1NUQGd-7" target="5IH84X5XSTADNQ1NUQGd-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Set value of k&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Choose k=5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="1200" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5IH84X5XSTADNQ1NUQGd-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Classification&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Classify data packet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="611" y="1190" width="119" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2wdc7DsvPRnudnOu6lJr-1" value="Find Neighbors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="420" y="1200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#99FFFF,#99FFFF);" parent="1" vertex="1">
+          <mxGeometry x="180" y="530" width="610" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data Preprocessing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="540" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-4" target="hvczIfgNtDT0wLWKjFQM-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Data Loading&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;Load the network traffic CSV&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-6" target="hvczIfgNtDT0wLWKjFQM-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Handle the data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Remove missing values and inf values&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-8" target="hvczIfgNtDT0wLWKjFQM-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data Balancing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Undersampling dataset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Feature Scaling&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apply feature scaling to the data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#99FFFF,#99FFFF);" parent="1" vertex="1">
+          <mxGeometry x="180" y="290" width="610" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data Preprocessing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="300" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-14" target="hvczIfgNtDT0wLWKjFQM-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Data Loading&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;Load the network traffic CSV&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-16" target="hvczIfgNtDT0wLWKjFQM-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Handle the data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Remove missing values and inf values&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-18" target="hvczIfgNtDT0wLWKjFQM-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-18" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data Balancing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Undersampling dataset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Feature Scaling&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apply feature scaling to the data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
