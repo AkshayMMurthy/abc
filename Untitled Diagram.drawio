@@ -1,26 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="IowLkyHsUFm7hj_iNHQr">
-    <mxGraphModel dx="1174" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fqz2EAUhRij4Ml8frbec-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tHObwuz-neF_lD4l34wk-1" target="fqz2EAUhRij4Ml8frbec-19" edge="1">
+        <mxCell id="rroA4w5QciKg8AlWYJ8E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHObwuz-neF_lD4l34wk-1" target="hvczIfgNtDT0wLWKjFQM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#99FFFF,#99FFFF);" parent="1" vertex="1">
-          <mxGeometry x="170" y="10" width="620" height="220" as="geometry" />
+          <mxGeometry x="250" y="20" width="500" height="210" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tHObwuz-neF_lD4l34wk-2" target="tHObwuz-neF_lD4l34wk-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCFF,#FFCCFF);" parent="1" vertex="1">
-          <mxGeometry x="180" y="730" width="610" height="220" as="geometry" />
+          <mxGeometry x="250" y="710" width="500" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Performance Evaluation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCCC,#CCFFCC);" parent="1" vertex="1">
-          <mxGeometry x="180" y="980" width="610" height="210" as="geometry" />
+          <mxGeometry x="250" y="940" width="500" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data Preprocessing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="20" width="590" height="40" as="geometry" />
+          <mxGeometry x="201.5" y="20" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tHObwuz-neF_lD4l34wk-5" target="tHObwuz-neF_lD4l34wk-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,58 +38,52 @@
           <mxGeometry x="620" y="90" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;SVM with Quantum Kernel&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="750" width="590" height="40" as="geometry" />
+          <mxGeometry x="220" y="720" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="5IH84X5XSTADNQ1NUQGd-2" target="5IH84X5XSTADNQ1NUQGd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;SVM Model Training&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;Train the SVM Model using the quantum kernel" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="830" width="240" height="100" as="geometry" />
+          <mxGeometry x="260" y="770" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-3" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Prediction on test data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Perform the prediction on the test data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="830" width="220" height="100" as="geometry" />
+          <mxGeometry x="520" y="770" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Evaluate the accuracy, precision,recall and f1-score" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="1050" width="370" height="110" as="geometry" />
+          <mxGeometry x="340" y="980" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2wdc7DsvPRnudnOu6lJr-1" value="Evaluate the performance of the model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="343.25" y="1060" width="286.5" height="30" as="geometry" />
+          <mxGeometry x="351.75" y="980" width="286.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hvczIfgNtDT0wLWKjFQM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCC99,#99FFFF);" parent="1" vertex="1">
-          <mxGeometry x="180" y="490" width="610" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="hvczIfgNtDT0wLWKjFQM-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Quantum Kernel Implementation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="500" width="598" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fqz2EAUhRij4Ml8frbec-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-4" target="hvczIfgNtDT0wLWKjFQM-8" edge="1">
+        <mxCell id="rroA4w5QciKg8AlWYJ8E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hvczIfgNtDT0wLWKjFQM-1" target="tHObwuz-neF_lD4l34wk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hvczIfgNtDT0wLWKjFQM-4" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Quantum Device&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;div&gt;Create the quantum device using pennylane&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="550" width="120" height="140" as="geometry" />
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCC99,#99FFFF);" parent="1" vertex="1">
+          <mxGeometry x="250" y="480" width="500" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Quantum Kernel Implementation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="480" width="598" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-6" target="hvczIfgNtDT0wLWKjFQM-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-6" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Quantum Encoding&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Apply angle or amplitude encoding to the data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="550" width="120" height="140" as="geometry" />
+          <mxGeometry x="436.5" y="520" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hvczIfgNtDT0wLWKjFQM-8" target="hvczIfgNtDT0wLWKjFQM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Choose qubits&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Use log&lt;sub&gt;2&lt;/sub&gt;N qubits for amplitude encoding and N qubits for amplitude encoding&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;N = No of features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="550" width="120" height="140" as="geometry" />
+          <mxGeometry x="260" y="520" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="hvczIfgNtDT0wLWKjFQM-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Quantum Kernel&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Implement the quantum kernel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="550" width="120" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="fqz2EAUhRij4Ml8frbec-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hvczIfgNtDT0wLWKjFQM-11" target="hvczIfgNtDT0wLWKjFQM-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hvczIfgNtDT0wLWKjFQM-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Quantum Kernel&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Use pennylane and implement the quantum kernel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="616.5" y="520" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCFFCC,#99FFFF);" parent="1" vertex="1">
-          <mxGeometry x="176.5" y="250" width="610" height="220" as="geometry" />
+          <mxGeometry x="250" y="260" width="500" height="190" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Feature Processing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="186.5" y="260" width="590" height="40" as="geometry" />
+          <mxGeometry x="201.5" y="260" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-14" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Feature Scaling&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apply feature scaling to the data&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616.5" y="310" width="120" height="120" as="geometry" />
@@ -104,12 +98,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-3" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Label Encoding&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Apply Label Encoding for the categorical features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="256.5" y="310" width="120" height="120" as="geometry" />
+          <mxGeometry x="260" y="310" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="250" width="20" as="geometry" />
         </mxCell>
-        <mxCell id="fqz2EAUhRij4Ml8frbec-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hvczIfgNtDT0wLWKjFQM-1" target="tHObwuz-neF_lD4l34wk-2" edge="1">
+        <mxCell id="rroA4w5QciKg8AlWYJ8E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.452;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hvczIfgNtDT0wLWKjFQM-11" target="hvczIfgNtDT0wLWKjFQM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
