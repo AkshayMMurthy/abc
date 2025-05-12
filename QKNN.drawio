@@ -8,16 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5CCFF;strokeColor=#9673a6;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="20" width="440" height="210" as="geometry" />
+          <mxGeometry x="270" y="20" width="460" height="210" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="tHObwuz-neF_lD4l34wk-2" target="tHObwuz-neF_lD4l34wk-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CCE5FF,#FFCCFF);fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="710" width="440" height="200" as="geometry" />
+          <mxGeometry x="270" y="710" width="460" height="200" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;Performance Evaluation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCCC,#CCFFCC);fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="940" width="440" height="160" as="geometry" />
+          <mxGeometry x="270" y="940" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-4" value="&lt;font&gt;&lt;b&gt;QKNN Data Preprocessing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="201.5" y="20" width="590" height="40" as="geometry" />
@@ -26,16 +26,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-5" value="&lt;font&gt;&lt;b&gt;Data Loading&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;Load the network traffic CSV&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="300" y="90" width="120" height="120" as="geometry" />
+          <mxGeometry x="280" y="90" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="tHObwuz-neF_lD4l34wk-7" target="tHObwuz-neF_lD4l34wk-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-7" value="&lt;font&gt;&lt;b&gt;Handle the data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Remove missing values and inf values&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="90" width="120" height="120" as="geometry" />
+          <mxGeometry x="430" y="90" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tHObwuz-neF_lD4l34wk-8" value="&lt;font&gt;&lt;b&gt;Data Balancing&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Undersampling dataset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="580" y="90" width="120" height="120" as="geometry" />
+          <mxGeometry x="580" y="90" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-1" value="&lt;span&gt;&lt;b&gt;QKNN Implementation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="220" y="720" width="590" height="40" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6FFCC,#99FFFF);fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="480" width="440" height="200" as="geometry" />
+          <mxGeometry x="270" y="480" width="460" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-2" value="&lt;font&gt;&lt;b&gt;Quantum Distance Computation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="480" width="598" height="40" as="geometry" />
@@ -68,37 +68,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-6" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Quantum Encoding&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Apply angle or amplitude encoding to the data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="520" width="126.5" height="140" as="geometry" />
+          <mxGeometry x="430" y="520" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="hvczIfgNtDT0wLWKjFQM-8" target="hvczIfgNtDT0wLWKjFQM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-8" value="&lt;span&gt;&lt;b&gt;Choose qubits&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create Quantum device and set qubits as required&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="290" y="520" width="130" height="140" as="geometry" />
+          <mxGeometry x="280" y="520" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-9" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Quantum Distance&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Compute Fidelity&lt;/div&gt;&lt;div&gt;and then compute distance&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="580" y="520" width="130" height="140" as="geometry" />
+          <mxGeometry x="580" y="520" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCC99,#99FFFF);fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="260" width="440" height="190" as="geometry" />
+          <mxGeometry x="270" y="260" width="460" height="190" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-12" value="&lt;font&gt;&lt;b&gt;Feature Processing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="201.5" y="260" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-14" value="&lt;div&gt;&lt;b&gt;&lt;span&gt;Feature Scaling&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Apply feature scaling to the data&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="580" y="300" width="130" height="140" as="geometry" />
+          <mxGeometry x="580" y="300" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="hvczIfgNtDT0wLWKjFQM-16" target="hvczIfgNtDT0wLWKjFQM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hvczIfgNtDT0wLWKjFQM-16" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Train-Test Split&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;70% Training Data&lt;/div&gt;&lt;div&gt;30% Testing Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="440" y="300" width="120" height="140" as="geometry" />
+          <mxGeometry x="430" y="300" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="fqz2EAUhRij4Ml8frbec-3" target="hvczIfgNtDT0wLWKjFQM-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-3" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Label Encoding&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Apply Label Encoding for the categorical features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="290" y="300" width="130" height="140" as="geometry" />
+          <mxGeometry x="280" y="300" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="fqz2EAUhRij4Ml8frbec-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="470" y="250" width="20" as="geometry" />
