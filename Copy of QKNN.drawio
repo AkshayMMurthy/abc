@@ -37,7 +37,7 @@
           <mxGeometry x="580" y="90" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-1" value="&lt;b&gt;Model Training and Testing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="220" y="720" width="590" height="40" as="geometry" />
+          <mxGeometry x="209.13" y="720" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="5IH84X5XSTADNQ1NUQGd-2" target="5IH84X5XSTADNQ1NUQGd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
