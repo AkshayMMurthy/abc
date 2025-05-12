@@ -44,10 +44,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-2" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;SVM Model Training&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;Train the SVM Model using the quantum kernel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="310" y="770" width="170" height="100" as="geometry" />
+          <mxGeometry x="310" y="770" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-3" value="&lt;div&gt;&lt;span&gt;&lt;b&gt;Prediction on test data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Perform the prediction on the test data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="500" y="770" width="170" height="100" as="geometry" />
+          <mxGeometry x="500" y="770" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5IH84X5XSTADNQ1NUQGd-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Evaluate the accuracy, precision,recall and f1-score" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="315" y="980" width="360" height="100" as="geometry" />
