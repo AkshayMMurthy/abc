@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="IowLkyHsUFm7hj_iNHQr">
-    <mxGraphModel dx="1584" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,67 +81,67 @@
         <mxCell id="9GCqckJGlXRP2MBFCVZy-6" value="Evaluate the performance of the model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="150" y="1370" width="298.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="68.5" y="580" width="220" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="308.5" y="580" width="220" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-4" value="&lt;b&gt;Amplitude Embedding using PennyLane&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-4" value="&lt;b&gt;Amplitude Encoding&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="88.5" y="580" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-5" value="&lt;font&gt;&lt;b&gt;Angle Embedding using PennyLane&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-5" value="&lt;font&gt;&lt;b&gt;Angle Encoding&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="338.5" y="580" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbNyF-SwpN6REmsCcp1_-6" target="KbNyF-SwpN6REmsCcp1_-15">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbNyF-SwpN6REmsCcp1_-6" target="KbNyF-SwpN6REmsCcp1_-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-6" value="&lt;div&gt;&lt;b&gt;Quantum Device&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create quantum device and set number of qubits to Log&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;N, where N is no of features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-6" value="&lt;div&gt;&lt;b&gt;Quantum Device&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create quantum device and set number of qubits to Log&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;N, where N is no of features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="97.5" y="630" width="165" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="68.5" y="500" width="460" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-11" value="&lt;b&gt;Quantum Feature Embedding&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-11" value="&lt;b&gt;Quantum Feature Embedding&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="118.5" y="500" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=16;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="68.5" y="1000" width="460" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KbNyF-SwpN6REmsCcp1_-13" target="tHObwuz-neF_lD4l34wk-2">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KbNyF-SwpN6REmsCcp1_-13" target="tHObwuz-neF_lD4l34wk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-13" value="&lt;b&gt;Quantum Encoded Data&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-13" value="&lt;b&gt;Quantum Encoded Data&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="163.87" y="1000" width="262.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KbNyF-SwpN6REmsCcp1_-14" target="KbNyF-SwpN6REmsCcp1_-16">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KbNyF-SwpN6REmsCcp1_-14" target="KbNyF-SwpN6REmsCcp1_-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-14" value="&lt;div&gt;&lt;b&gt;Quantum Device&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create quantum device and set number of qubits to N, where N is no of features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-14" value="&lt;div&gt;&lt;b&gt;Quantum Device&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Create quantum device and set number of qubits to N, where N is no of features&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="341" y="630" width="155" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-15" value="&lt;div&gt;&lt;b&gt;Quantum Encoding&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Encode the features using the AmplitudeEmbedding Function available in PennyLane&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-15" value="&lt;div&gt;&lt;b&gt;Quantum Encoding&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Encode the features using Amplitude Encoding&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="98.5" y="800" width="165" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-16" value="&lt;div&gt;&lt;b&gt;Quantum Encoding&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Encode the features using the AngleEmbedding Function available in PennyLane&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-16" value="&lt;div&gt;&lt;b&gt;Quantum Encoding&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Encode the features using Angle Encoding&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="339.75" y="800" width="157.5" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.171;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hvczIfgNtDT0wLWKjFQM-11" target="KbNyF-SwpN6REmsCcp1_-11">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.171;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hvczIfgNtDT0wLWKjFQM-11" target="KbNyF-SwpN6REmsCcp1_-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.777;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hvczIfgNtDT0wLWKjFQM-11" target="KbNyF-SwpN6REmsCcp1_-11">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.777;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hvczIfgNtDT0wLWKjFQM-11" target="KbNyF-SwpN6REmsCcp1_-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.405;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KbNyF-SwpN6REmsCcp1_-11" target="KbNyF-SwpN6REmsCcp1_-5">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.405;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KbNyF-SwpN6REmsCcp1_-11" target="KbNyF-SwpN6REmsCcp1_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.229;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KbNyF-SwpN6REmsCcp1_-1" target="KbNyF-SwpN6REmsCcp1_-12">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.229;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KbNyF-SwpN6REmsCcp1_-1" target="KbNyF-SwpN6REmsCcp1_-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.949;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KbNyF-SwpN6REmsCcp1_-2" target="KbNyF-SwpN6REmsCcp1_-13">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.949;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KbNyF-SwpN6REmsCcp1_-2" target="KbNyF-SwpN6REmsCcp1_-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KbNyF-SwpN6REmsCcp1_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.691;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KbNyF-SwpN6REmsCcp1_-11" target="KbNyF-SwpN6REmsCcp1_-4">
+        <mxCell id="KbNyF-SwpN6REmsCcp1_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.691;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KbNyF-SwpN6REmsCcp1_-11" target="KbNyF-SwpN6REmsCcp1_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
